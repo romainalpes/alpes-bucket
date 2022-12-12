@@ -10,10 +10,4 @@
         }
     },
     "extract_dir": "PFiles\\3CX",
-    "shortcuts": [
-        [
-            "3CX.exe",
-            "3CX"
-        ]
-    ]
 }

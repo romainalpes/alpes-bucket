@@ -1,0 +1,19 @@
+{
+    "version": "18.9.933",
+    "homepage": "https://www.3cx.fr/",
+    "description": "Logiciel de téléphonie",
+
+    "architecture": {
+        "64bit": {
+            "url": "http://10.2.1.54:8000/3CXDesktopApp-18.9.933.msi",
+            "hash": "F82AE1D89F36363E2584E996D4DC35B2FEE977B87AAFF4471CEC60049952C433"
+        }
+    },
+    "extract_dir": "PFiles\\3CX",
+    "shortcuts": [
+        [
+            "3CX.exe",
+            "3CX"
+        ]
+    ]
+}
